@@ -61,4 +61,5 @@ textarea {
     text-align: center;
     border: 1px solid black;
     font-family: 'Montserrat', sans-serif;
+    color: var(--primary-color);
 }
